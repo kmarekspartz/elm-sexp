@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Adds `isWhitespace` for Char.",
-    "repository": "http://github.com/zeckalpha/char-extra.git",
+    "summary": "Parses S-expressions.",
+    "repository": "http://github.com/zeckalpha/elm-sexp.git",
     "license": "BSD3",
     "source-directories": [
         "."
